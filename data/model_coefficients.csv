@@ -1,0 +1,11 @@
+Feature,Coefficient
+price,-3.513943369015176
+competitor_price,-0.7816694324070721
+price_difference_pct,4.637319974360533
+marketing_spend,0.023946476157679975
+consumer_confidence_index,15.657924439629777
+unemployment_rate,-107.25891956502988
+is_promotion,392.07968188153245
+seasonal_factor,985.9343319484219
+trend_factor,1435.6511451317656
+Intercept,-1711.1476807631227
