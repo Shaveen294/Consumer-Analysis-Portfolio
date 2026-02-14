@@ -30,7 +30,7 @@ Consumer_Analysis_Portfolio/
 |   |-- Consumer_Analysis_Validation.xlsx
 |
 |-- visualisations/
-|   |-- Consumer_Analysis_Dashboards.pbix
+|   |-- Consumer_Analysis_Report.pbix
 |   |-- 01_Model_Validation.jpg
 |   |-- 02_Demand_Drivers.jpg
 |   |-- 03_Scenario_Analysis.jpg
